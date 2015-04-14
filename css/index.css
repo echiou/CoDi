@@ -1,0 +1,55 @@
+html,body{
+  background: #EFEFEF;
+  margin: 0px;
+}
+
+.teal{
+  color: #1ea8b2;
+}
+
+.orange{
+  color: #f86939;
+}
+
+.center{
+  text-align: center;
+}
+
+.text-right{
+  text-align: right;
+}
+
+.section{
+  padding-top: 9rem;
+  padding-bottom: 9rem;
+}
+
+.header{
+  background: white;
+}
+
+.header-heading{
+  font-size: 7.5rem;
+}
+
+.border-white{
+  border: 1rem solid white;
+}
+
+.t1vt2{
+  width: 100%;
+}
+
+.sect-2{
+  background: #f86939;
+  color: white;
+}
+
+.screen{
+  width: 70%;
+}
+
+.sect-4{
+  background: #1ea8b2;
+  color: white;
+}
